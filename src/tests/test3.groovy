@@ -1,4 +1,4 @@
-package tests
+import Counter
 
 class CounterTest extends GroovyTestCase {
 	private counter
