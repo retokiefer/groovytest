@@ -1,7 +1,5 @@
 package tests
 
-import tests.Counter
-
 class CounterTest extends GroovyTestCase {
 	private counter
 	void setUp() {
