@@ -1,0 +1,14 @@
+<cars>
+    <car name='A6' make='Audi' year='2006'>
+        <country>Germany</country>
+        <description>Fast and nice</description>
+    </car>
+    <car name='Alhambra' make='Seat' year='1999'>
+        <country>Spain</country>
+        <description>Large and handy</description>
+    </car>
+    <car name='Punto' make='Fiat' year='1980'>
+        <country>Italy</country>
+        <description>Small and cheap</description>
+    </car>
+</cars>
